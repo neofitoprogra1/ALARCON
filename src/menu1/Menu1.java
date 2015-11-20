@@ -19,6 +19,7 @@ public class Menu1 {
     public static void main(String[]args){
         Scanner in=new Scanner(System.in);
         int o=0;
+        //prueba
         do{
             System.out.println("MENU");
             System.out.println("1.-Crear Nueva Mascota");
